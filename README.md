@@ -16,7 +16,8 @@ Este projeto implementa um modelo híbrido para simular a dinâmica de doenças 
 -   Numba (para otimização de performance)
 
 ## 📁 Estrutura do Projeto
-📂 Projeto_SIR_AC
+```
+📂 epdemologia
 │-- 📂 data_output
 │   └── ca_evoluton.png
 │   └── dimension_evolution.png
@@ -25,7 +26,7 @@ Este projeto implementa um modelo híbrido para simular a dinâmica de doenças 
 │-- 📜 simulacao_epidemia.py  # Script único contendo toda a implementação
 │-- 📜 requirements.txt       # Dependências do projeto
 │-- 📜 README.md              # Documentação do projeto
-
+```
 ## 🔧 Como Executar o Projeto
 1.  Clone este repositório:
     ```bash
