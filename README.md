@@ -34,7 +34,7 @@ Este projeto implementa um modelo híbrido para simular a dinâmica de doenças 
     ```
 2.  Acesse o diretório do projeto:
     ```bash
-    cd Projeto_SIR_AC
+    cd epdemologia
     ```
 3.  Instale as dependências necessárias:
     ```bash
