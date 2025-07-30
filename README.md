@@ -30,7 +30,7 @@ Este projeto implementa um modelo híbrido para simular a dinâmica de doenças 
 ## 🔧 Como Executar o Projeto
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu_usuario/Projeto_SIR_AC.git](https://github.com/seu_usuario/Projeto_SIR_AC.git)
+    git clone [https://github.com/joaomanoel1532/epidemologia-automatos-celulares.git](https://github.com/joaomanoel1532/epidemologia-automatos-celulares.git)
     ```
 2.  Acesse o diretório do projeto:
     ```bash
